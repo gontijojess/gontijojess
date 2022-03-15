@@ -12,7 +12,7 @@ Brazil
 
 ## My interests 💙 
 
-Cloud Computing, AI, Programming
+Cloud Computing, AI, Data, Programming
 
 HTML, CSS, JavaScript, Python, SQL 💻
 
