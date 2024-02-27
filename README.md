@@ -6,8 +6,6 @@ I'm **Jéssica Gontijo** 🌼
 
 **Software Engineer** student at **Infnet** 🎓
 
-Intern at **IBM**
-
 Brazil
 
 ## My interests 💙 
