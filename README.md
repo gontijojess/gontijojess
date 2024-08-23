@@ -2,7 +2,7 @@
 
 ## Hello
 
-I'm **Jéssica Gontijo** 🌼
+I'm **Jéssica Gontijo**
 
 **Software Engineer** student at **Infnet** 🎓
 
